@@ -1,4 +1,4 @@
-(* Submitter nickname: Cameron *)
+(* Submitter nickname: Aurora BORO *)
 (* Name of your artwork (optional): Stackd Hams *)
 
 

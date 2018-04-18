@@ -36,7 +36,7 @@ One submitter used their actual name. Their name has been redacted, so this subm
                  took longer than just typing the code would
                  have RIP." *)
 5. (* DirtyHacks, "angery about exn" *)
-6. (* AURORO BORO, "Stackd Hams" *)
+6. (* Auroroa BORO, "Stackd Hams" *)
 7. (* Alonzo Church, "Church Encodings" *)
 8. (* Unsure Casual Guy, "SML is Plain English" *)
 
@@ -49,6 +49,6 @@ You will be asked to implement a basic stack structure called Stackd (where the 
     empty : unit -> 'a t
     null : 'a t -> bool
 ```
-which push to the stack, pop from the stack, return an empty stack, and check whether a stack is empty, respectively. There is also an exception Empty, which should be raised if we pop off an empty stack. The provided refsol implements all four operations in constant time, but if you can implement them asymptotically slower then that's excellent.
+which push to the stack, pop from the stack, return an empty stack, and check whether a stack is empty, respectively. There is also an exception Empty, which should be raised if we pop off an empty stack. Our solution implements all four operations in constant time, but if you can implement them asymptotically slower then that's excellent.
 
 ### Good luck, and may your code be confusing, unreadable garbage!
