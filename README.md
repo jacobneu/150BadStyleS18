@@ -36,7 +36,7 @@ One submitter used their actual name. Their name has been redacted, so this subm
                  took longer than just typing the code would
                  have RIP." *)
 5. (* DirtyHacks, "angery about exn" *)
-6. (* [name redacted], "Stackd Hams" *)
+6. (* AURORO BORO, "Stackd Hams" *)
 7. (* Alonzo Church, "Church Encodings" *)
 8. (* Unsure Casual Guy, "SML is Plain English" *)
 
