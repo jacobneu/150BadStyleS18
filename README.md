@@ -5,7 +5,7 @@ I am hereby declaring a 150 Bad Style Competition. Show off your skills at makin
 
 ## The Rules
 The rules are as follows:
-- All submissions must conform to the following technical specification: your submission must be in SML, not use any structures disallowed by the autograder, compile cleanly on autolab (using SMLNJ 110.81), and pass the tests (mentioned below). 
+- All submissions must conform to the following technical specification: your submission must be in SML, not use any structures disallowed by the autograder, compile cleanly on autolab (using SMLNJ 110.81), and pass the tests (mentioned below).
 - Submissions must not exploit/hack the infrastructure of the autograder
 - Your code should not contain anything which personally identifies you (we're going to be using anonymous nicknames for fair voting)
 
@@ -22,16 +22,17 @@ The awards will be announced on the 15-150 S18 Piazza soon after voting conclude
 To cast your ballot, please go to:
 [https://goo.gl/forms/kCMuVhcsYQ2rZFxg2](https://goo.gl/forms/kCMuVhcsYQ2rZFxg2)
 
-Each submission is identified by its nickname and the artist. Multiple votes are allowed and encouraged (don't actually votespam though). Votes will be accepted until 23:59 on Tuesday, April 24th 2018. There are no late days. 
+Each submission is identified by its nickname and the artist. Multiple votes are allowed and encouraged (don't actually votespam though). Votes will be accepted until 23:59 on Tuesday, April 24th 2018. There are no late days.
 
 ## The Submissions
-One submitter used their actual name. Their name has been redacted, so this submitter is unable to curry favor with the voters using their winning personality and natural charm. The two Alonzo Churches are, in fact, distinct people who independently picked the same nickname. 
+One submitter used their actual name. Their name has been redacted, so this submitter is unable to curry favor with the voters using their winning personality and natural charm. The two Alonzo Churches are, in fact, distinct people who independently picked the same nickname.
+
 0. (* make_garph, "if true=true then true else false" *)
 1. (* Alonzo Church, "Values are Functions" *)
 2. (* fella, Untitled *)
 3. (* JCB, Untitled *)
 4. (* B@53C@53, "I generated this code using a python script
-                 but I think writing the python script 
+                 but I think writing the python script
                  took longer than just typing the code would
                  have RIP." *)
 5. (* DirtyHacks, "angery about exn" *)
@@ -48,6 +49,6 @@ You will be asked to implement a basic stack structure called Stackd (where the 
     empty : unit -> 'a t
     null : 'a t -> bool
 ```
-which push to the stack, pop from the stack, return an empty stack, and check whether a stack is empty, respectively. There is also an exception Empty, which should be raised if we pop off an empty stack. The provided refsol implements all four operations in constant time, but if you can implement them asymptotically slower then that's excellent. 
+which push to the stack, pop from the stack, return an empty stack, and check whether a stack is empty, respectively. There is also an exception Empty, which should be raised if we pop off an empty stack. The provided refsol implements all four operations in constant time, but if you can implement them asymptotically slower then that's excellent.
 
 ### Good luck, and may your code be confusing, unreadable garbage!
