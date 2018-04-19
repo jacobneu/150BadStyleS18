@@ -39,7 +39,7 @@ One submitter used their actual name. Their name has been redacted, so this subm
 6. (* Auroroa BORO, "Stackd Hams" *)
 7. (* Alonzo Church, "Church Encodings" *)
 8. (* Unsure Casual Guy, "SML is Plain English" *)
-
+9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)9. (* JCB, Untitled *)
 
 ## The Problem:
 You will be asked to implement a basic stack structure called Stackd (where the d is for "dumb"). An 'a stack should be a value of the abstract type 'a t, which you'll define along with the following operations:
